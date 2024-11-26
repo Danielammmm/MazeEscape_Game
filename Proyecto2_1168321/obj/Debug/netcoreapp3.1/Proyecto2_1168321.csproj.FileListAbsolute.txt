@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\URL\2do ciclo\INTRODUCCION A LA PROGRAMACION\PROYECTOS\Proyecto2_1168321\Proyecto2_1168321\bin\Debug\netcoreapp3.1\Proyecto2_1168321.exe
+C:\Users\usuario\Desktop\URL\2do ciclo\INTRODUCCION A LA PROGRAMACION\PROYECTOS\Proyecto2_1168321\Proyecto2_1168321\bin\Debug\netcoreapp3.1\Proyecto2_1168321.deps.json
+C:\Users\usuario\Desktop\URL\2do ciclo\INTRODUCCION A LA PROGRAMACION\PROYECTOS\Proyecto2_1168321\Proyecto2_1168321\bin\Debug\netcoreapp3.1\Proyecto2_1168321.runtimeconfig.json
+C:\Users\usuario\Desktop\URL\2do ciclo\INTRODUCCION A LA PROGRAMACION\PROYECTOS\Proyecto2_1168321\Proyecto2_1168321\bin\Debug\netcoreapp3.1\Proyecto2_1168321.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\URL\2do ciclo\INTRODUCCION A LA PROGRAMACION\PROYECTOS\Proyecto2_1168321\Proyecto2_1168321\bin\Debug\netcoreapp3.1\Proyecto2_1168321.dll
+C:\Users\usuario\Desktop\URL\2do ciclo\INTRODUCCION A LA PROGRAMACION\PROYECTOS\Proyecto2_1168321\Proyecto2_1168321\bin\Debug\netcoreapp3.1\Proyecto2_1168321.pdb
+C:\Users\usuario\Desktop\URL\2do ciclo\INTRODUCCION A LA PROGRAMACION\PROYECTOS\Proyecto2_1168321\Proyecto2_1168321\obj\Debug\netcoreapp3.1\Proyecto2_1168321.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\URL\2do ciclo\INTRODUCCION A LA PROGRAMACION\PROYECTOS\Proyecto2_1168321\Proyecto2_1168321\obj\Debug\netcoreapp3.1\Proyecto2_1168321.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\URL\2do ciclo\INTRODUCCION A LA PROGRAMACION\PROYECTOS\Proyecto2_1168321\Proyecto2_1168321\obj\Debug\netcoreapp3.1\Proyecto2_1168321.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\URL\2do ciclo\INTRODUCCION A LA PROGRAMACION\PROYECTOS\Proyecto2_1168321\Proyecto2_1168321\obj\Debug\netcoreapp3.1\Proyecto2_1168321.AssemblyInfo.cs
+C:\Users\usuario\Desktop\URL\2do ciclo\INTRODUCCION A LA PROGRAMACION\PROYECTOS\Proyecto2_1168321\Proyecto2_1168321\obj\Debug\netcoreapp3.1\Proyecto2_1168321.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\URL\2do ciclo\INTRODUCCION A LA PROGRAMACION\PROYECTOS\Proyecto2_1168321\Proyecto2_1168321\obj\Debug\netcoreapp3.1\Proyecto2_1168321.dll
+C:\Users\usuario\Desktop\URL\2do ciclo\INTRODUCCION A LA PROGRAMACION\PROYECTOS\Proyecto2_1168321\Proyecto2_1168321\obj\Debug\netcoreapp3.1\Proyecto2_1168321.pdb
+C:\Users\usuario\Desktop\URL\2do ciclo\INTRODUCCION A LA PROGRAMACION\PROYECTOS\Proyecto2_1168321\Proyecto2_1168321\obj\Debug\netcoreapp3.1\Proyecto2_1168321.genruntimeconfig.cache
