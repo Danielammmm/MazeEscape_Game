@@ -40,11 +40,6 @@
 ## **Diagrama de flujo**
 El diseño del juego sigue un flujo lógico que asegura la interacción dinámica del jugador con el entorno del laberinto, procesando entradas de movimiento y generando salidas en tiempo real.
 
-## **Próximas mejoras**
-- Implementación de un sistema de guardado de progreso.
-- Gráficos simples en 2D para mejorar la experiencia visual.
-- Ampliación de niveles y personalización de personajes.
-
 ## **Cómo ejecutar el proyecto**
 1. Clona este repositorio:  
    ```bash
